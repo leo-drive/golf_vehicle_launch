@@ -11,7 +11,7 @@
   <link name="base_link">
     <visual>
       <!--<origin xyz="${vehicle_info['/**']['ros__parameters']['wheel_base']/2.0} 0 0" rpy="${pi/2.0} 0 ${pi/2.0}"/>-->
-      <origin xyz="1.3772 0 -0.3935" rpy="${pi/2.0} 0 -${pi/2.0}"/>
+      <origin xyz="1.3772 0 -0.1" rpy="${pi/2.0} 0 -${pi/2.0}"/>
       <geometry>
         <mesh filename="package://golf_vehicle_description/mesh/golf.fbx" scale="0.01 0.01 0.01"/>
       </geometry>
