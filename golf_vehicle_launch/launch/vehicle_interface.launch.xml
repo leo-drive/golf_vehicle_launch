@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch>
+  <include file="$(find-pkg-share leo_vcu_driver)/launch/leo_vcu_driver.launch.xml"/>
+</launch>
